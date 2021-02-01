@@ -31,7 +31,7 @@
     "body-parser": "^1.15.2",
     "compression": "^1.6.2",
     "cors": "^2.8.1",
-    "dateformat": "^2.0.0",
+    "dateformat": "^4.5.1",
     "eslint": "^3.2.2",
     "express": "4.17.1",
     "preact": "^7.1.0",
